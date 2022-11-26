@@ -1,8 +1,4 @@
-# HTTP SMS
-
-[![Build](https://github.com/NdoleStudio/httpsms/actions/workflows/ci.yml/badge.svg)](https://github.com/NdoleStudio/httpsms/actions/workflows/ci.yml)
-[![GitHub contributors](https://img.shields.io/github/contributors/NdoleStudio/httpsms)](https://github.com/NdoleStudio/httpsms/graphs/contributors)
-[![GitHub license](https://img.shields.io/github/license/NdoleStudio/httpsms?color=brightgreen)](https://github.com/NdoleStudio/httpsms/blob/master/LICENSE)
+# ANDROID HTTP SMS
 
 [HTTP SMS](https://httpsms.com) is a service that lets you use your android phone as an SMS Gateway to send and receive SMS messages.
 You make a request to the API which it triggers your android phone to send an SMS.
